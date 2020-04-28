@@ -19,7 +19,7 @@ public class BlackJack {
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
         
-       Fenetre maFenetre = new Fenetre("Game", 500, 450);
+       Fenetre maFenetre = new Fenetre("BlackJack (Janos Falke 2017)", 500, 450);
 
       
     }
